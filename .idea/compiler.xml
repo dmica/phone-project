@@ -8,15 +8,18 @@
         <outputRelativeToContentRoot value="true" />
         <module name="phone-manager" />
         <module name="shared" />
+        <module name="netflix-eureka-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="netflix-eureka-server" target="1.8" />
       <module name="phone-manager" target="1.8" />
       <module name="shared" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="netflix-eureka-server" options="-parameters" />
       <module name="phone-manager" options="-parameters" />
     </option>
   </component>

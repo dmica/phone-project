@@ -1,11 +1,7 @@
 package com.ait.phonemanager.controllerrs;
 
-import com.ait.phonemanager.ServletInitializer;
-import com.ait.phonemanager.dao.PhoneDAO;
-import com.ait.phonemanager.dto.Phone;
-import com.ait.phonemanager.exceptions.PhoneNotFoundException;
 import com.ait.phonemanager.repositories.PhoneRepository;
-import com.sun.deploy.security.SelectableSecurityManager;
+import com.ait.phonemanager.exceptions.PhoneNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.dao.EmptyResultDataAccessException;
 import org.springframework.http.HttpStatus;
