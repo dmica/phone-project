@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="phone-manager:war">
+    <output-path>$PROJECT_DIR$/phone-manager/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>phone-manager</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="phone-manager-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="phone-manager:war exploded" />
+    </root>
+  </artifact>
+</component>

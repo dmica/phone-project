@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/phone-manager/phone-manager.iml" filepath="$PROJECT_DIR$/phone-manager/phone-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/phone-project.iml" filepath="$PROJECT_DIR$/.idea/phone-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shared/shared.iml" filepath="$PROJECT_DIR$/shared/shared.iml" />
+    </modules>
+  </component>
+</project>

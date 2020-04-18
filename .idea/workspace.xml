@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f76e3a11-b000-4439-9be5-e041ca054b3a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/phone-manager" />
+  </component>
+  <component name="ProjectId" id="1airlf6rdao1aELxQWGKfpX2kfo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/shared" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ait.phonemanager.dto" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="PhoneManagerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="phone-manager" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ait.phonemanager.PhoneManagerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f76e3a11-b000-4439-9be5-e041ca054b3a" name="Default Changelist" comment="" />
+      <created>1587229407105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587229407105</updated>
+      <workItem from="1587229409443" duration="24000" />
+      <workItem from="1587229453157" duration="438000" />
+      <workItem from="1587229922526" duration="590000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="318" y="13" key="#Project_Structure" timestamp="1587229413246">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="318" y="13" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1587229413246" />
+    <state x="654" y="307" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1587229572377">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="654" y="307" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1587229572377" />
+    <state x="626" y="56" key="FileChooserDialogImpl" timestamp="1587229878709">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="626" y="56" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587229878709" />
+    <state x="298" y="21" key="Maven.ArtifactSearchDialog" timestamp="1587230243334">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="298" y="21" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1587230243334" />
+    <state x="511" y="61" key="NewModule_or_Project.wizard" timestamp="1587229529852">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="511" y="61" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1587229529852" />
+    <state x="326" y="0" key="SettingsEditor" timestamp="1587230514343">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="326" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587230514343" />
+    <state x="417" y="278" key="com.intellij.ide.util.TipDialog" timestamp="1587229922705">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="417" y="278" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587229922705" />
+    <state x="131" y="0" key="new project wizard" timestamp="1587229883780">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="131" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587229883780" />
+  </component>
+</project>
