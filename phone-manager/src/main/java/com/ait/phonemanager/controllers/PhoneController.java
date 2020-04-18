@@ -1,4 +1,4 @@
-package com.ait.phonemanager.controllerrs;
+package com.ait.phonemanager.controllers;
 
 import com.ait.phonemanager.repositories.PhoneRepository;
 import com.ait.phonemanager.exceptions.PhoneNotFoundException;
