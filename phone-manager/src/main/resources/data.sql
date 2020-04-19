@@ -1,0 +1,11 @@
+insert into phone (name, model, release_year, operating_system, price, picture) values ('Redmi 7a', 'Xiaomi', 2019, 'Android', 199.99, 'redmi_7a.jpg'); 
+insert into phone (name, model, release_year, operating_system, price, picture) values ('P Smart Z', 'Huawei', 2020, 'Android', 249.99, 'p-smart-z.png');
+insert into phone (name, model, release_year, operating_system, price, picture) values ('Samsung A50', 'Galaxy', 2019, 'Android', 59.99, 'galaxy_a50.jpg');
+insert into phone (name, model, release_year, operating_system, price, picture) values ('Samsung A40', 'Galaxy', 2018, 'Android', 124.99, 'galaxy_a40.jpg');
+insert into phone (name, model, release_year, operating_system, price, picture) values ('Mi Mix', 'Xiaomi', 2020, 'Android', 89.99, 'mi_mix_2s.jpg');
+insert into phone (name, model, release_year, operating_system, price, picture) values ('Samsung A10', 'Galaxy', 2017, 'Android', 59.99, 'galaxy_a10.jpg');
+insert into phone (name, model, release_year, operating_system, price, picture) values ('P Smart 2019', 'Huawei', 2017, 'Android', 399.99, 'p_smart_2019.jpg');
+insert into phone (name, model, release_year, operating_system, price, picture) values ('Samsung A20', 'Galaxy', 2020, 'Android', 129.99, 'galaxy_a20.jpg');
+insert into phone (name, model, release_year, operating_system, price, picture) values ('P30 Pro', 'Huawei', 2018, 'Android', 299.99, 'p30_pro.jpg');
+insert into phone (name, model, release_year, operating_system, price, picture) values ('Galaxy A70', 'Samsung', 2020, 'Android', 159.99, 'galaxy_a70.jpg');
+insert into phone (name, model, release_year, operating_system, price, picture) values ('P30', 'Huawei', 2018, 'Android', 199.99, 'p30.jpg');

@@ -2,29 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f76e3a11-b000-4439-9be5-e041ca054b3a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ait_phonemanager_shared_1_0_SNAPSHOT.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/client_discovery_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/client_discovery_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_ait_phonemanager_shared_1_0_SNAPSHOT.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client-discovery/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/client-discovery/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client-feign/src/main/java/com/ait/clientfeign/controllers/ClientFeifnController.java" beforeDir="false" afterPath="$PROJECT_DIR$/client-feign/src/main/java/com/ait/clientfeign/controllers/ClientFeifnController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client-feign/src/main/java/com/ait/clientfeign/feignclients/PhoneManagerClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/client-feign/src/main/java/com/ait/clientfeign/feignclients/PhoneManagerClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client-ribbon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/client-ribbon/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client-ribbon/src/main/java/com/ait/clientribbon/controllers/ClientRibbonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/client-ribbon/src/main/java/com/ait/clientribbon/controllers/ClientRibbonController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[Help" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone-manager/[Help" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/phone-manager/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/phone-manager/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/phone-manager/src/main/java/com/ait/phonemanager/PhoneManagerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/phone-manager/src/main/java/com/ait/phonemanager/PhoneManagerApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/phone-manager/src/main/java/com/ait/phonemanager/ServletInitializer.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/phone-manager/src/main/java/com/ait/phonemanager/controllerrs/PhoneController.java" beforeDir="false" afterPath="$PROJECT_DIR$/phone-manager/src/main/java/com/ait/phonemanager/controllers/PhoneController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone-manager/src/main/java/com/ait/phonemanager/dao/PhoneDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/phone-manager/src/main/java/com/ait/phonemanager/dao/PhoneDAO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/phone-manager/src/main/java/com/ait/phonemanager/dto/Phone.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/phone-manager/src/main/java/com/ait/phonemanager/repositories/PhoneRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/phone-manager/src/main/java/com/ait/phonemanager/repositories/PhoneRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/phone-manager/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/phone-manager/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shared/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shared/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="testdb" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -45,6 +61,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="h2&#10;mysql" />
     <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -55,7 +72,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/shared/src/main/java/com/ait/phone-manager/dto" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/phone-manager/src/main/java/com/ait/phonemanager/dto" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/phone-manager/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -69,12 +86,13 @@
       <recent name="com.ait.phonemanager.dto" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MDmitrovic\IdeaProjects\phone-project\phone-manager\src\main\resources" />
       <recent name="C:\Users\MDmitrovic\IdeaProjects\phone-project\phone-manager\src\main\java\com\ait\phonemanager\dto" />
       <recent name="C:\Users\MDmitrovic\IdeaProjects\phone-project\shared\src\main\java\com\ait\phone-manager\dto" />
       <recent name="C:\Users\MDmitrovic\IdeaProjects\phone-project\phone-manager\src\main\java\com\ait\phonemanager" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.PhoneManagerApplication-2">
+  <component name="RunManager" selected="Spring Boot.PhoneManagerApplication">
     <configuration name="ClientDiscoveryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="client-discovery" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.ait.clientdiscovery.ClientDiscoveryApplication" />
@@ -153,14 +171,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="318" y="13" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1587308050058" />
-    <state x="274" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587291787709">
+    <state x="275" y="21" key="#SQL_Dialects" timestamp="1587312635498">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="274" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1587291787709" />
-    <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587305379923">
+    <state x="275" y="21" key="#SQL_Dialects/0.0.1366.728@0.0.1366.728" timestamp="1587312635498" />
+    <state x="339" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587313423214">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1587305379923" />
+    <state x="339" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1587313423214" />
+    <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587308931483">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1587308931483" />
     <state x="580" y="151" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1587307306589">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -181,42 +203,46 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="626" y="56" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587306628963" />
-    <state width="1322" height="555" key="GridCell.Tab.0.bottom" timestamp="1587308627867">
+    <state width="1322" height="396" key="GridCell.Tab.0.bottom" timestamp="1587313324174">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="555" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587308627867" />
-    <state width="1322" height="555" key="GridCell.Tab.0.center" timestamp="1587308627867">
+    <state width="1322" height="396" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587313324174" />
+    <state width="1322" height="396" key="GridCell.Tab.0.center" timestamp="1587313324173">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="555" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587308627867" />
-    <state width="1322" height="555" key="GridCell.Tab.0.left" timestamp="1587308627867">
+    <state width="1322" height="396" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587313324173" />
+    <state width="1322" height="396" key="GridCell.Tab.0.left" timestamp="1587313324173">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="555" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587308627867" />
-    <state width="1322" height="555" key="GridCell.Tab.0.right" timestamp="1587308627867">
+    <state width="1322" height="396" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587313324173" />
+    <state width="1322" height="396" key="GridCell.Tab.0.right" timestamp="1587313324173">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="555" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587308627867" />
-    <state width="1322" height="555" key="GridCell.Tab.1.bottom" timestamp="1587308627867">
+    <state width="1322" height="396" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587313324173" />
+    <state width="1322" height="396" key="GridCell.Tab.1.bottom" timestamp="1587313324174">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="555" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587308627867" />
-    <state width="1322" height="555" key="GridCell.Tab.1.center" timestamp="1587308627867">
+    <state width="1322" height="396" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587313324174" />
+    <state width="1322" height="396" key="GridCell.Tab.1.center" timestamp="1587313324174">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="555" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587308627867" />
-    <state width="1322" height="555" key="GridCell.Tab.1.left" timestamp="1587308627867">
+    <state width="1322" height="396" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587313324174" />
+    <state width="1322" height="396" key="GridCell.Tab.1.left" timestamp="1587313324174">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="555" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587308627867" />
-    <state width="1322" height="555" key="GridCell.Tab.1.right" timestamp="1587308627867">
+    <state width="1322" height="396" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587313324174" />
+    <state width="1322" height="396" key="GridCell.Tab.1.right" timestamp="1587313324174">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="555" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587308627867" />
-    <state x="298" y="21" key="Maven.ArtifactSearchDialog" timestamp="1587230243334">
+    <state width="1322" height="396" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587313324174" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1587313308364">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="298" y="21" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1587230243334" />
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1366.728@0.0.1366.728" timestamp="1587313308364" />
+    <state x="298" y="21" key="Maven.ArtifactSearchDialog" timestamp="1587309579247">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="298" y="21" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1587309579247" />
     <state x="511" y="61" key="NewModule_or_Project.wizard" timestamp="1587296552822">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
