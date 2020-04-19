@@ -2,22 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f76e3a11-b000-4439-9be5-e041ca054b3a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/client_discovery_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/client_discovery_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_10_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_10_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_10_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ait_phonemanager_shared_1_0_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/client_discovery_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/client_discovery_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-discovery/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/client-discovery/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-feign/src/main/java/com/ait/clientfeign/controllers/ClientFeifnController.java" beforeDir="false" afterPath="$PROJECT_DIR$/client-feign/src/main/java/com/ait/clientfeign/controllers/ClientFeifnController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-feign/src/main/java/com/ait/clientfeign/feignclients/PhoneManagerClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/client-feign/src/main/java/com/ait/clientfeign/feignclients/PhoneManagerClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-ribbon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/client-ribbon/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-ribbon/src/main/java/com/ait/clientribbon/controllers/ClientRibbonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/client-ribbon/src/main/java/com/ait/clientribbon/controllers/ClientRibbonController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/phone-manager/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/phone-manager/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/phone-manager/src/main/java/com/ait/phonemanager/PhoneManagerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/phone-manager/src/main/java/com/ait/phonemanager/PhoneManagerApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/phone-manager/src/main/java/com/ait/phonemanager/ServletInitializer.java" beforeDir="false" />
@@ -25,6 +19,7 @@
       <change beforePath="$PROJECT_DIR$/phone-manager/src/main/java/com/ait/phonemanager/dto/Phone.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/phone-manager/src/main/java/com/ait/phonemanager/repositories/PhoneRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/phone-manager/src/main/java/com/ait/phonemanager/repositories/PhoneRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/phone-manager/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/phone-manager/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shared/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +54,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/client-feign" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/shared/src/main/java/com/ait/phone-manager/dto" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/phone-manager/src/main/java/com/ait/phonemanager/dto" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -69,10 +65,16 @@
       <recent name="com.ait.phonemanager.dto" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="src.main.java.com.ait.phonemanager.dto" />
       <recent name="com.ait.phonemanager.dto" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MDmitrovic\IdeaProjects\phone-project\phone-manager\src\main\java\com\ait\phonemanager\dto" />
+      <recent name="C:\Users\MDmitrovic\IdeaProjects\phone-project\shared\src\main\java\com\ait\phone-manager\dto" />
+      <recent name="C:\Users\MDmitrovic\IdeaProjects\phone-project\phone-manager\src\main\java\com\ait\phonemanager" />
+    </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.ClientRibbonApplication">
+  <component name="RunManager" selected="Spring Boot.PhoneManagerApplication-2">
     <configuration name="ClientDiscoveryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="client-discovery" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.ait.clientdiscovery.ClientDiscoveryApplication" />
@@ -147,14 +149,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="318" y="13" key="#Project_Structure" timestamp="1587229413246">
+    <state x="318" y="13" key="#Project_Structure" timestamp="1587308050058">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="318" y="13" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1587229413246" />
+    <state x="318" y="13" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1587308050058" />
     <state x="274" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587291787709">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="274" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1587291787709" />
+    <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587305379923">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1587305379923" />
+    <state x="580" y="151" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1587307306589">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="580" y="151" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1587307306589" />
     <state x="654" y="307" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1587229572377">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -163,42 +173,46 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="759" y="246" width="455" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1587297170822" />
-    <state x="626" y="56" key="FileChooserDialogImpl" timestamp="1587296551290">
+    <state x="413" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587307011232">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="626" y="56" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587296551290" />
-    <state width="800" height="130" key="GridCell.Tab.0.bottom" timestamp="1587296086903">
+    <state x="413" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587307011232" />
+    <state x="626" y="56" key="FileChooserDialogImpl" timestamp="1587306628963">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="800" height="130" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587296086903" />
-    <state width="800" height="130" key="GridCell.Tab.0.center" timestamp="1587296086903">
+    <state x="626" y="56" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587306628963" />
+    <state width="1322" height="555" key="GridCell.Tab.0.bottom" timestamp="1587308627867">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="800" height="130" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587296086903" />
-    <state width="800" height="130" key="GridCell.Tab.0.left" timestamp="1587296086903">
+    <state width="1322" height="555" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587308627867" />
+    <state width="1322" height="555" key="GridCell.Tab.0.center" timestamp="1587308627867">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="800" height="130" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587296086903" />
-    <state width="800" height="130" key="GridCell.Tab.0.right" timestamp="1587296086903">
+    <state width="1322" height="555" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587308627867" />
+    <state width="1322" height="555" key="GridCell.Tab.0.left" timestamp="1587308627867">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="800" height="130" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587296086903" />
-    <state width="800" height="130" key="GridCell.Tab.1.bottom" timestamp="1587296086903">
+    <state width="1322" height="555" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587308627867" />
+    <state width="1322" height="555" key="GridCell.Tab.0.right" timestamp="1587308627867">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="800" height="130" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587296086903" />
-    <state width="800" height="130" key="GridCell.Tab.1.center" timestamp="1587296086903">
+    <state width="1322" height="555" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587308627867" />
+    <state width="1322" height="555" key="GridCell.Tab.1.bottom" timestamp="1587308627867">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="800" height="130" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587296086903" />
-    <state width="800" height="130" key="GridCell.Tab.1.left" timestamp="1587296086903">
+    <state width="1322" height="555" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587308627867" />
+    <state width="1322" height="555" key="GridCell.Tab.1.center" timestamp="1587308627867">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="800" height="130" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587296086903" />
-    <state width="800" height="130" key="GridCell.Tab.1.right" timestamp="1587296086903">
+    <state width="1322" height="555" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587308627867" />
+    <state width="1322" height="555" key="GridCell.Tab.1.left" timestamp="1587308627867">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="800" height="130" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587296086903" />
+    <state width="1322" height="555" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587308627867" />
+    <state width="1322" height="555" key="GridCell.Tab.1.right" timestamp="1587308627867">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="555" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587308627867" />
     <state x="298" y="21" key="Maven.ArtifactSearchDialog" timestamp="1587230243334">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -207,14 +221,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="511" y="61" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1587296552822" />
-    <state x="326" y="0" key="SettingsEditor" timestamp="1587296554522">
+    <state x="326" y="0" key="SettingsEditor" timestamp="1587308494681">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="326" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587296554522" />
-    <state x="803" y="164" key="chooseDestDirectoryDialog" timestamp="1587297169506">
+    <state x="326" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587308494681" />
+    <state x="803" y="164" key="chooseDestDirectoryDialog" timestamp="1587307528848">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="803" y="164" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1587297169506" />
+    <state x="803" y="164" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1587307528848" />
     <state x="417" y="278" key="com.intellij.ide.util.TipDialog" timestamp="1587229922705">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -223,9 +237,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="380" y="96" width="606" height="536" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1587293851508" />
-    <state x="131" y="0" key="new project wizard" timestamp="1587229883780">
+    <state x="103" y="36" key="new project wizard" timestamp="1587308416353">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="131" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587229883780" />
+    <state x="103" y="36" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587308416353" />
   </component>
 </project>

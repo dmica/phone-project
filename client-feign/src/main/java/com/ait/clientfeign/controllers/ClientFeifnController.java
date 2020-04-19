@@ -1,6 +1,8 @@
 package com.ait.clientfeign.controllers;
 
 import com.ait.clientfeign.feignclients.PhoneManagerClient;
+
+import com.ait.phonemanager.dto.Phone;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
