@@ -11,7 +11,7 @@
     <groupId>com.ait</groupId>
     <artifactId>phone-manager</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+<!--    <packaging>war</packaging>-->
     <name>phone-manager</name>
     <description>Demo project for Phone Manager</description>
 
@@ -75,6 +75,16 @@
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
             <version>2.2.2.RELEASE</version>
+        </dependency>
+        <dependency>
+            <groupId>com.ait.phonemanager</groupId>
+            <artifactId>shared</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.fasterxml.jackson.dataformat</groupId>
+            <artifactId>jackson-dataformat-xml</artifactId>
         </dependency>
 
     </dependencies>
