@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/client-discovery/client-discovery.iml" filepath="$PROJECT_DIR$/client-discovery/client-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-feign/client-feign.iml" filepath="$PROJECT_DIR$/client-feign/client-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-ribbon/client-ribbon.iml" filepath="$PROJECT_DIR$/client-ribbon/client-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/netflix-eureka-server/netflix-eureka-server.iml" filepath="$PROJECT_DIR$/netflix-eureka-server/netflix-eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/phone-manager/phone-manager.iml" filepath="$PROJECT_DIR$/phone-manager/phone-manager.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/phone-project.iml" filepath="$PROJECT_DIR$/.idea/phone-project.iml" />
