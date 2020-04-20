@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="zuul-api-gateway:war">
+    <output-path>$PROJECT_DIR$/zuul-api-gateway/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>zuul-api-gateway</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="zuul-api-gateway-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="zuul-api-gateway:war exploded" />
+    </root>
+  </artifact>
+</component>

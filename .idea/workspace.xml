@@ -2,12 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f76e3a11-b000-4439-9be5-e041ca054b3a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_ait_phonemanager_shared_1_0_SNAPSHOT.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/cloudConfigServer_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/cloudConfigServer_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/order_manager_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/order_manager_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/zuul_api_gateway_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/zuul_api_gateway_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_1_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_icu_icu4j_58_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_54.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jzlib_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_abego_treelayout_org_abego_treelayout_core_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_ST4_4_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr4_4_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_runtime_3_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_5_1_3_201810200350_r.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_http_apache_5_1_3_201810200350_r.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_javax_json_1_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_orm_hibernate_core_6_0_0_Alpha4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_vintage_junit_vintage_engine_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_zuul_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_zuul_2_2_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[Help" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-manager" beforeDir="false" afterPath="$PROJECT_DIR$/order-manager" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-manager/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order-manager/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-manager/src/main/java/com/ait/ordermanager/OrderManagerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-manager/src/main/java/com/ait/ordermanager/OrderManagerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-manager/src/main/java/com/ait/ordermanager/controllers/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-manager/src/main/java/com/ait/ordermanager/controllers/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-manager/src/main/java/com/ait/ordermanager/dto/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-manager/src/main/java/com/ait/ordermanager/dto/Order.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/phone-manager/[Help" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/phone-manager/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/phone-manager/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/phone-manager/src/main/java/com/ait/phonemanager/PhoneManagerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/phone-manager/src/main/java/com/ait/phonemanager/PhoneManagerApplication.java" afterDir="false" />
@@ -45,13 +90,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/phone-manager" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/order-manager" />
   </component>
   <component name="ProjectId" id="1airlf6rdao1aELxQWGKfpX2kfo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -72,27 +117,50 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/shared/src/main/java/com/ait/phone-manager/dto" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/phone-manager/src/main/resources" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/wine-project-Lab3-Ex3" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ait.config.cloudConfigServer" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.ait.phonemanager.dto" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="src.main.java.com.ait.phonemanager.dto" />
-      <recent name="com.ait.phonemanager.dto" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MDmitrovic\IdeaProjects\phone-project\cloudConfigServer" />
       <recent name="C:\Users\MDmitrovic\IdeaProjects\phone-project\phone-manager\src\main\resources" />
       <recent name="C:\Users\MDmitrovic\IdeaProjects\phone-project\phone-manager\src\main\java\com\ait\phonemanager\dto" />
       <recent name="C:\Users\MDmitrovic\IdeaProjects\phone-project\shared\src\main\java\com\ait\phone-manager\dto" />
       <recent name="C:\Users\MDmitrovic\IdeaProjects\phone-project\phone-manager\src\main\java\com\ait\phonemanager" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="src.main.java.com.ait.phonemanager.dto" />
+      <recent name="com.ait.phonemanager.dto" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MDmitrovic\IdeaProjects\phone-project" />
+    </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.PhoneManagerApplication">
+  <component name="RunManager" selected="JUnit.All in order-manager">
+    <configuration name="All in cloudConfigServer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cloudConfigServer" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in order-manager" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="order-manager" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ClientDiscoveryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="client-discovery" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.ait.clientdiscovery.ClientDiscoveryApplication" />
@@ -114,9 +182,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CloudConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudConfigServer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ait.config.cloudConfigServer.CloudConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NetflixEurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="netflix-eureka-server" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.ait.netflixeurekaserver.NetflixEurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderManagerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="order-manager" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ait.ordermanager.OrderManagerApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -137,6 +219,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ZuulApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zuul-api-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ait.zuulapigateway.ZuulApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Spring Boot.NetflixEurekaServerApplication" />
       <item itemvalue="Spring Boot.PhoneManagerApplication" />
@@ -144,7 +233,18 @@
       <item itemvalue="Spring Boot.ClientDiscoveryApplication" />
       <item itemvalue="Spring Boot.ClientRibbonApplication" />
       <item itemvalue="Spring Boot.ClientFeignApplication" />
+      <item itemvalue="Spring Boot.CloudConfigServerApplication" />
+      <item itemvalue="JUnit.All in cloudConfigServer" />
+      <item itemvalue="Spring Boot.ZuulApiGatewayApplication" />
+      <item itemvalue="JUnit.All in order-manager" />
+      <item itemvalue="Spring Boot.OrderManagerApplication" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in order-manager" />
+        <item itemvalue="JUnit.All in cloudConfigServer" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -160,6 +260,8 @@
       <workItem from="1587229453157" duration="438000" />
       <workItem from="1587229922526" duration="4178000" />
       <workItem from="1587288702666" duration="8515000" />
+      <workItem from="1587389576402" duration="1482000" />
+      <workItem from="1587391165215" duration="7324000" />
     </task>
     <servers />
   </component>
@@ -175,14 +277,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="21" key="#SQL_Dialects/0.0.1366.728@0.0.1366.728" timestamp="1587312635498" />
-    <state x="339" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587313423214">
+    <state x="274" y="15" width="1092" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587390968895">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1587313423214" />
+    <state x="274" y="15" width="1092" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1587390968895" />
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587308931483">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1587308931483" />
+    <state x="638" y="50" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1587390655230">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="638" y="50" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587390655230" />
     <state x="580" y="151" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1587307306589">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -199,58 +305,58 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587307011232" />
-    <state x="626" y="56" key="FileChooserDialogImpl" timestamp="1587306628963">
+    <state x="626" y="56" key="FileChooserDialogImpl" timestamp="1587399184856">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="626" y="56" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587306628963" />
-    <state width="1322" height="396" key="GridCell.Tab.0.bottom" timestamp="1587313324174">
+    <state x="626" y="56" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587399184856" />
+    <state width="1322" height="116" key="GridCell.Tab.0.bottom" timestamp="1587399111279">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="396" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587313324174" />
-    <state width="1322" height="396" key="GridCell.Tab.0.center" timestamp="1587313324173">
+    <state width="1322" height="116" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587399111279" />
+    <state width="1322" height="116" key="GridCell.Tab.0.center" timestamp="1587399111279">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="396" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587313324173" />
-    <state width="1322" height="396" key="GridCell.Tab.0.left" timestamp="1587313324173">
+    <state width="1322" height="116" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587399111279" />
+    <state width="1322" height="116" key="GridCell.Tab.0.left" timestamp="1587399111279">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="396" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587313324173" />
-    <state width="1322" height="396" key="GridCell.Tab.0.right" timestamp="1587313324173">
+    <state width="1322" height="116" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587399111279" />
+    <state width="1322" height="116" key="GridCell.Tab.0.right" timestamp="1587399111279">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="396" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587313324173" />
-    <state width="1322" height="396" key="GridCell.Tab.1.bottom" timestamp="1587313324174">
+    <state width="1322" height="116" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587399111279" />
+    <state width="955" height="370" key="GridCell.Tab.1.bottom" timestamp="1587397025176">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="396" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587313324174" />
-    <state width="1322" height="396" key="GridCell.Tab.1.center" timestamp="1587313324174">
+    <state width="955" height="370" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587397025176" />
+    <state width="955" height="370" key="GridCell.Tab.1.center" timestamp="1587397025176">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="396" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587313324174" />
-    <state width="1322" height="396" key="GridCell.Tab.1.left" timestamp="1587313324174">
+    <state width="955" height="370" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587397025176" />
+    <state width="955" height="370" key="GridCell.Tab.1.left" timestamp="1587397025176">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="396" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587313324174" />
-    <state width="1322" height="396" key="GridCell.Tab.1.right" timestamp="1587313324174">
+    <state width="955" height="370" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587397025176" />
+    <state width="955" height="370" key="GridCell.Tab.1.right" timestamp="1587397025176">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="396" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587313324174" />
+    <state width="955" height="370" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587397025176" />
     <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1587313308364">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1366.728@0.0.1366.728" timestamp="1587313308364" />
-    <state x="298" y="21" key="Maven.ArtifactSearchDialog" timestamp="1587309579247">
+    <state x="298" y="21" key="Maven.ArtifactSearchDialog" timestamp="1587398508817">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="298" y="21" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1587309579247" />
-    <state x="511" y="61" key="NewModule_or_Project.wizard" timestamp="1587296552822">
+    <state x="298" y="21" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1587398508817" />
+    <state x="511" y="61" key="NewModule_or_Project.wizard" timestamp="1587395233869">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="511" y="61" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1587296552822" />
-    <state x="326" y="0" key="SettingsEditor" timestamp="1587308494681">
+    <state x="511" y="61" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1587395233869" />
+    <state x="326" y="0" key="SettingsEditor" timestamp="1587395255579">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="326" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587308494681" />
+    <state x="326" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587395255579" />
     <state x="803" y="164" key="chooseDestDirectoryDialog" timestamp="1587307528848">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -259,13 +365,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="417" y="278" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587389588315" />
-    <state x="380" y="96" width="606" height="536" key="find.popup" timestamp="1587293851508">
+    <state x="380" y="96" width="834" height="536" key="find.popup" timestamp="1587392960246">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="380" y="96" width="606" height="536" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1587293851508" />
-    <state x="103" y="36" key="new project wizard" timestamp="1587308416353">
+    <state x="380" y="96" width="834" height="536" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1587392960246" />
+    <state x="103" y="36" key="new project wizard" timestamp="1587391750800">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="103" y="36" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587308416353" />
+    <state x="103" y="36" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587391750800" />
   </component>
 </project>

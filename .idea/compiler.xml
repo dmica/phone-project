@@ -10,19 +10,25 @@
         <module name="client-ribbon" />
         <module name="netflix-eureka-server" />
         <module name="client-feign" />
+        <module name="cloudConfigServer" />
         <module name="shared" />
         <module name="phone-manager" />
         <module name="client-discovery" />
+        <module name="order-manager" />
+        <module name="zuul-api-gateway" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="client-discovery" target="1.8" />
       <module name="client-feign" target="1.8" />
       <module name="client-ribbon" target="1.8" />
+      <module name="cloudConfigServer" target="1.8" />
       <module name="netflix-eureka-server" target="1.8" />
+      <module name="order-manager" target="1.8" />
       <module name="phone-manager" target="1.8" />
       <module name="shared" target="1.5" />
       <module name="shared1" target="1.5" />
+      <module name="zuul-api-gateway" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -30,8 +36,11 @@
       <module name="client-discovery" options="-parameters" />
       <module name="client-feign" options="-parameters" />
       <module name="client-ribbon" options="-parameters" />
+      <module name="cloudConfigServer" options="-parameters" />
       <module name="netflix-eureka-server" options="-parameters" />
+      <module name="order-manager" options="-parameters" />
       <module name="phone-manager" options="-parameters" />
+      <module name="zuul-api-gateway" options="-parameters" />
     </option>
   </component>
 </project>

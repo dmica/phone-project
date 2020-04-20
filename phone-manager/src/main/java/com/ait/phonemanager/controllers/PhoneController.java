@@ -26,7 +26,7 @@ public class PhoneController {
     }
 
     @GetMapping("phones/{phoneId}")
-    public Phone getWPhoneById(@PathVariable int phoneId)
+    public Phone getPhoneById(@PathVariable int phoneId)
     {
         Optional<Phone> foundPhone = phoneRepository.findById(phoneId);
         if(foundPhone.isPresent())

@@ -7,9 +7,15 @@
     <file url="file://$PROJECT_DIR$/client-feign/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/client-ribbon/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/client-ribbon/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudConfigServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudConfigServer/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/netflix-eureka-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/netflix-eureka-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-manager/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-manager/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/phone-manager/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/phone-manager/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul-api-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul-api-gateway/src/main/resources" charset="UTF-8" />
   </component>
 </project>
